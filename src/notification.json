@@ -1,0 +1,107 @@
+[
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-mark-webber.webp",
+      "profile_name":"Mark Webber"
+    },
+    "title":"reacted to your recent post",
+    "subject":{
+      "subject_title":"My first tournament today!",
+      "subject_type":"post"
+    },
+    "read":false,
+    "time":"1m ago",
+    "additional_content":"",
+    "img_post":""
+  },
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-angela-gray.webp",
+      "profile_name":"Angela Gray"
+    },
+    "title":"followed you",
+    "subject":{
+      "subject_title":"",
+      "subject_type":""
+    },
+    "read":false,
+    "time":"5m ago",
+    "additional_content":"",
+    "img_post":""
+  },
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-jacob-thompson.webp",
+      "profile_name":"Jacob Thompson"
+    },
+    "title":"has joined your group",
+    "subject":{
+      "subject_title":"Chess Club",
+      "subject_type":"group"
+    },
+    "read":false,
+    "time":"1 day ago",
+    "additional_content":"",
+    "img_post":""
+  },
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-rizky-hasanuddin.webp",
+      "profile_name":"Rizky Hasanuddin"
+    },
+    "title":"sent you a private message",
+    "subject":{
+      "subject_title":"",
+      "subject_type":""
+    },
+    "read":true,
+    "time":"5 days ago",
+    "additional_content":"Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+    "img_post":""
+  },
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-kimberly-smith.webp",
+      "profile_name":"Kimberly Smith"
+    },
+    "title":"commented on your picture",
+    "subject":{
+      "subject_title":"",
+      "subject_type":""
+    },
+    "read":true,
+    "time":"1 week ago",
+    "additional_content":"",
+    "img_post":"../assets/images/image-chess.webp"
+  },
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-nathan-peterson.webp",
+      "profile_name":"Nathan Peterson"
+    },
+    "title":"reacted to your recent post",
+    "subject":{
+      "subject_title":"5 end-game strategies to increase your win rate",
+      "subject_type":"post"
+    },
+    "read":true,
+    "time":"2 weeks ago",
+    "additional_content":"",
+    "img_post":""
+  },
+  {
+    "from":{
+      "profile_icon":"../assets/images/avatar-anna-kim.webp",
+      "profile_name":"Anna Kim"
+    },
+    "title":"left the group",
+    "subject":{
+      "subject_title":"Chess Club",
+      "subject_type":"group"
+    },
+    "read":true,
+    "time":"2 weeks ago",
+    "additional_content":"",
+    "img_post":""
+  }
+]
